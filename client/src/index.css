@@ -70,3 +70,10 @@ body {
   padding: 5px 10px;
   background-color: lightskyblue;
 }
+
+a {
+  text-decoration: none;
+  color: #1c5d76;
+  font-weight: bold;
+  margin-right: 8px;
+}
